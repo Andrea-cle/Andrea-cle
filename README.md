@@ -13,7 +13,7 @@ Bienvenue sur mon profil GitHub! Je suis une développeuse qui apprends les tech
 
 ## 🛠️ Compétences
 
-- **Front-End**: HTML5, CSS3, JavaScript
+- **Front-End**: HTML5, CSS3, JavaScript, ReactJS
 - **Back-End**: NodeJS, Express.js
 - **Bases de données**: PHPMyadmin, MySQL, SQL
 
