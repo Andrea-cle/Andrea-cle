@@ -33,7 +33,7 @@ Bienvenue sur mon profil GitHub! Je suis une développeuse qui apprends les tech
 
 - **Email**: [andrea.clement.dev@gmail.com](mailto:andrea.clement.dev@gmail.com])
 - **LinkedIn**: https://www.linkedin.com/in/andrea-clement-full-stack/
-- **présentation**: https://www.whire.me/@AndreaCLEMENT](https://portfolio-o28h6x278-andreas-projects-776d7df5.vercel.app/
+- **présentation**: https://portfolio-o28h6x278-andreas-projects-776d7df5.vercel.app/
 
 ## 📚 Mes projets
 
