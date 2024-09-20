@@ -4,7 +4,7 @@ Bienvenue sur mon profil GitHub! Je suis une développeuse qui apprends les tech
 
 ## 🚀 À propos de moi
 
-- 🎓 Formation: Future étudiante en alternance à la Wild Code School à partir du 23 septembre prochain.
+- 🎓 Formation: Future étudiante en alternance à la Wild Code School à partir du 12 novembre prochain.
 - 💼 Expérience:
   - Développeuse Full-Stack JavaScript avec une connaissance initiale en ReactJS, NodeJS, HTML5, et CSS.
   - Expériences variées en tant qu'assistante administrative, de direction et de vente, ainsi qu'en restauration.
