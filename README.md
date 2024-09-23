@@ -48,8 +48,7 @@ Je suis constamment en train de travailler sur des projets personnels et profess
     questions venant du formulaire, création de compte avec mot de passe haché et connexion).
     Le site est volontairement laissé en l'état (incomplet) car je souhaite avoir un point de départ afin de me réjouir de mes futurs progrès qui vont être accomplis tout le long de mon alternance !
 
-- https://github.com/Andrea-cle/EasySleep: Application sur la surveillance du sommeil en React Native, que je découvre en même temps. Je travail avec VS Code et Expo Go pour vérifier l'application en temps réel sur mon    
-    téléphone et corriger les erreurs affichées.
+- https://github.com/Andrea-cle/EasySleep: Application sur la surveillance du sommeil en React Native, que je découvre en même temps. Je travail avec VS Code et Expo Go pour vérifier l'application en temps réel sur mon        téléphone et corriger les erreurs affichées.
 
  - https://github.com/Andrea-cle/Asso-danse.git : (en cours de construction) J'ai entrepris de créer un site pour l'association de danse de ma ville, qui jusqu'alors ne disposait que d'une page Facebook, d'un agenda en 
    ligne, et utilisait une plateforme externe pour la billetterie. Les informations étaient dispersées sur différents sites, ce qui compliquait l'accès et rendait les tâches fastidieuses et chronophages.
